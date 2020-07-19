@@ -1,0 +1,6 @@
+1] download and install yarn in your system.(try once runing this using npm if it does not work install yarn).
+2] https://react-bootstrap.github.io/components/navbar/ wisit this site for more information.
+3] yarn add react-bootstrap bootstrap (do this if the dependencies are not in package.json)
+4] yarn add react-router-dom
+5]
+
