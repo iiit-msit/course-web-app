@@ -1,0 +1,15 @@
+event title 
+start date and time
+end date and time 
+event description
+host
+location [203-A, 203-B, 203-C, 203-D, 216-A, 216-B, 216-C, 216-MC, 216-D, 216-E, 216-F, 225-A, 225-B, 230, 202, CR-1, CR-2, Open Lobby, SH-1, Saranga Hall-119]
+invites
+Type of Event [for course incharge] - Orientation, Quiz event, Mentor training, Programming Test, Concept Test, Exam 
+Type of Event [for Mentor] - Quiz event, Class, Viva
+button to Create Event
+
+
+
+
+[implement using react]
